@@ -1,2 +1,5 @@
 # amazon-analytics-project
-End-to-end Amazon India Analytics project covering data cleaning, ETL, SQL star schema modeling,  predictive analytics, Power BI dashboards, and business insights. Includes Python code, SQL scripts,  forecasting models, cohort analysis, and interactive BI reports.
+This repository contains a complete analytics pipeline for Amazon India e-commerce data including 
+data cleaning, feature engineering, SQL star schema design, predictive analytics, cohort analysis, 
+customer segmentation (RFM), forecasting models (Prophet), and multiple Power BI dashboards for 
+executive reporting, supply chain monitoring, customer behavior, and revenue insights.
